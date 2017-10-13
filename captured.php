@@ -64,7 +64,7 @@ $Definition['Allow other members to see your email?'] = 'Allow other members to 
 $Definition['Announce'] = 'Announce';
 $Definition['Applicants'] = 'Applicants';
 $Definition['Apply'] = 'Apply';
-$Definition['Apply for Membership'] = 'සාමාජිකයෙක් වෙන්න';
+$Definition['Apply for Membership'] = 'රෙජිස්ටර් වෙන්න';
 $Definition['Are you sure you want to do that?'] = 'Are you sure you want to do that?';
 $Definition['at'] = 'at';
 
@@ -83,7 +83,7 @@ $Definition['Close'] = 'Close';
 $Definition['comment'] = 'අදහස්';
 $Definition['Comment'] = 'අදහස්';
 $Definition['Confirm'] = 'අනුමත කරන්න';
-$Definition['Confirm Password'] = 'Confirm Password';
+$Definition['Confirm Password'] = 'මුරපදය තහවුරු කරන්න';
 $Definition['Connect'] = 'Connect';
 $Definition['conversation'] = 'conversation';
 $Definition['Conversations'] = 'Conversations';
@@ -98,7 +98,7 @@ $Definition['Delete'] = 'Delete';
 $Definition['Delete Account'] = 'Delete Account';
 $Definition['Delete Conversation'] = 'මෙම සංවාදය Delete කරන්න';
 $Definition['Delete Discussion'] = 'Delete Discussion';
-$Definition['discussion'] = 'discussion';
+$Definition['discussion'] = 'සාකච්චාවන්';
 $Definition['Discussion Title'] = 'සාකච්චාවේ තේමාව';
 $Definition['Discussions'] = 'සාකච්චාවන්';
 $Definition['Don\'t have an account? %s'] = 'සාමාජිකයෙක් නොවේද ? %s';
@@ -111,7 +111,7 @@ $Definition['Edit Account'] = 'Edit Account';
 $Definition['Edit My Account'] = 'මගේ ගිණුම වෙනස් කරන්න';
 $Definition['Edit My Thumbnail'] = 'මගේ පිංතූරයේ පෙනුම වෙනස් කරන්න';
 $Definition['Edit Preferences'] = 'ඉක්මන් දැනුම් දීම් වෙනස් කිරීම්';
-$Definition['Email'] = 'Email';
+$Definition['Email'] = 'විද්‍යුත් ලිපිනය';
 $Definition['Email Notifications'] = 'Email Notifications';
 $Definition['Email Unavailable'] = 'Email Unavailable';
 $Definition['EmailInvitation'] = 'Hello!
@@ -173,14 +173,10 @@ You can access the site at {/,url,domain}.
 Have a great day!';
 $Definition['EmailWelcomeRegister'] = 'Hello {User.Name},
 
-You have successfully registered for an account at {Title}. Here is your information:
+මෙතනින් ඔබට ෆෝරමය නිරීක්ෂණය කල හැක. {/,url,domain}
 
-  Username: {User.Name}
-  Email: {User.Email}
-
-You can access the site at {/,url,domain}.
-
-Have a great day!';
+ඔබ සමූහයේ සාමාජිකයකු වී ඔබගේ වටිනා දැනුම අප සමග බෙදා-හදා ගැනීමට කාරුණික වීම ගැන අපි ඉතාම සතුටු වන්නෙමු.
+ක්‍රියාකාරී සාමාජිකයෙක් වශයෙන් කටයුතු කිරීමට පෙර ඔබගේ ඊ-මේල් ගිනුමේ වලංගු භාවය පරීක්ෂා කිරීමට කරුණාකර පහත ලින්ක් එක ක්ලික් කරන්න: ';
 $Definition['Enter the email address of the person you would like to invite:'] = 'Enter the email address of the person you would like to invite:';
 $Definition['Enter your Email address'] = 'Enter your Email address';
 $Definition['Enter your existing account password.'] = 'Enter your existing account password.';
@@ -203,7 +199,7 @@ $Definition['GuestModule.Message'] = '<p>▪ අන්තර්ජාලයේ �
 $Definition['he'] = 'he';
 $Definition['her'] = 'her';
 $Definition['his'] = 'his';
-$Definition['Howdy, Stranger!'] = 'ඕහ්..ඔබ තවමත් *** කෙනෙක් වුණේ නැත්ද ?
+$Definition['Howdy, Stranger!'] = 'ඔබ තවමත් සාමාජිකයෙක්  වුණේ නැත්ද ?
  ?';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>';
@@ -278,7 +274,7 @@ $Definition['Roles'] = 'තත්වය';
 $Definition['Save'] = 'Save';
 $Definition['Save Draft'] = 'Save Draft';
 $Definition['Save Preferences'] = 'Save Preferences';
-$Definition['Search'] = 'Search';
+$Definition['Search'] = 'සොයන්න';
 $Definition['Select an image on your computer (2mb max)'] = 'ඔබේ පරිගණකයේ ඇති පිංතූරයක් තෝරන්න (පිංතූරය 2 MB ට අඩු විය යුතුයි)';
 $Definition['Send %s a Message'] = '%sට පණිවිඩයක් යවන්න';
 $Definition['Send Message'] = 'පණිවිඩයක් යවන්න';
